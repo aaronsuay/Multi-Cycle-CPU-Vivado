@@ -1,0 +1,27 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+,,,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/dmem.sv,,controller,,,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.sim/sim_1/behav/xsim/glbl.v,1683584748,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/flopr.sv,1683581150,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/id_EX.sv,,flopr,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/if_id.sv,1683581150,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/ifetch.sv,,if_id,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/ifetch.sv,1684381678,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/imem.sv,,ifetch,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/mux.sv,1684378575,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/regfile.sv,,mux2;mux3,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv,1684376098,systemVerilog,,,,pipeline,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/adder.sv,1681338244,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/alu.sv,,adder,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/alu.sv,1683746714,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/aludec.sv,,alu,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/aludec.sv,1683581150,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/Lab4/controller.sv,,aludec,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/extend.sv,1683581150,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/flopr.sv,,extend,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/maindec.sv,1683581150,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/mem_WB.sv,,maindec,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/regfile.sv,1683581150,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv,,regfile,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/EX_mem.sv,1684384766,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/PCSE.sv,,EX_mem,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/PCSE.sv,1684375127,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/adder.sv,,PCSE,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/dmem.sv,1684364469,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/extend.sv,,dmem,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/id_EX.sv,1684382571,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/idecode.sv,,id_EX,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/idecode.sv,1684648301,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/iexecute.sv,,idecode,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/iexecute.sv,1684648448,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/if_id.sv,,iexecute,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/imem.sv,1684647897,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/imemory.sv,,imem,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/imemory.sv,1684380539,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/iwriteback.sv,,imemory,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/iwriteback.sv,1684365504,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/Lab4/maindec.sv,,iwriteback,,uvm,,,,,,
+C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/mem_WB.sv,1684362650,systemVerilog,,C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/mux.sv,,mem_WB,,uvm,,,,,,

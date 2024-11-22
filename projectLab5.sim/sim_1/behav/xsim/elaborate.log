@@ -1,0 +1,43 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot pipeline_behav xil_defaultlib.pipeline xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 1 for port 'Zero' [C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/new/idecode.sv:54]
+WARNING: [VRFC 10-3823] variable 'InstrD' might have multiple concurrent drivers [C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv:59]
+WARNING: [VRFC 10-3823] variable 'PCSrcE' might have multiple concurrent drivers [C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv:80]
+WARNING: [VRFC 10-3823] variable 'RegWriteE' might have multiple concurrent drivers [C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv:82]
+WARNING: [VRFC 10-3823] variable 'RegWriteW' might have multiple concurrent drivers [C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv:107]
+WARNING: [VRFC 10-3823] variable 'RegWriteM' might have multiple concurrent drivers [C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv:109]
+WARNING: [VRFC 10-3823] variable 'ResultW' might have multiple concurrent drivers [C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv:122]
+WARNING: [VRFC 10-3823] variable 'ResultSrcW' might have multiple concurrent drivers [C:/Users/aaron/OneDrive/Desktop/projectLab5/projectLab5.srcs/sources_1/imports/Desktop/IF stage files/pipeline.sv:124]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux2
+Compiling module xil_defaultlib.flopr(WIDTH=32)
+Compiling module xil_defaultlib.adder
+Compiling module xil_defaultlib.imem
+Compiling module xil_defaultlib.if_id
+Compiling module xil_defaultlib.ifetch
+Compiling module xil_defaultlib.maindec
+Compiling module xil_defaultlib.aludec
+Compiling module xil_defaultlib.controller
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.extend
+Compiling module xil_defaultlib.id_EX
+Compiling module xil_defaultlib.idecode
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.EX_mem
+Compiling module xil_defaultlib.PCSE
+Compiling module xil_defaultlib.iexecute
+Compiling module xil_defaultlib.dmem
+Compiling module xil_defaultlib.mem_WB
+Compiling module xil_defaultlib.imemory
+Compiling module xil_defaultlib.mux3
+Compiling module xil_defaultlib.iwriteback
+Compiling module xil_defaultlib.pipeline
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot pipeline_behav
